@@ -1,4 +1,5 @@
 ﻿using CourseLibrary.API.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 
 namespace CourseLibrary.API.DbContexts

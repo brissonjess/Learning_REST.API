@@ -1,4 +1,5 @@
-﻿using CourseLibrary.API.Helpers;
+﻿using AutoMapper;
+using CourseLibrary.API.Helpers;
 using CourseLibrary.API.Models;
 using CourseLibrary.API.Services;
 using Microsoft.AspNetCore.Mvc;

@@ -1,4 +1,5 @@
-﻿using CourseLibrary.API.Helpers;
+﻿using AutoMapper;
+using CourseLibrary.API.Helpers;
 
 namespace CourseLibrary.API.Profiles
 {

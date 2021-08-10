@@ -1,4 +1,6 @@
-﻿namespace CourseLibrary.API.Profiles
+﻿using AutoMapper;
+
+namespace CourseLibrary.API.Profiles
 {
     public class CoursesProfile : Profile
     {
