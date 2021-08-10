@@ -1,0 +1,116 @@
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\appsettings.json
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.exe
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.deps.json
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.runtimeconfig.json
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.runtimeconfig.dev.json
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.pdb
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.Views.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.Views.pdb
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csprojAssemblyReference.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfoInputs.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfo.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CoreCompileInputs.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorAssemblyInfo.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorAssemblyInfo.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.Manifest.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.xml
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\CourseLibrary.API.styles.css
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.TagHelpers.input.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.TagHelpers.output.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorCoreGenerate.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorTargetAssemblyInfo.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorTargetAssemblyInfo.cs
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.Views.pdb
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CopyComplete
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\goa\shared\INFRAS\MS\CGI\Team Area\Jessica\Courses\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.exe
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.deps.json
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.runtimeconfig.json
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.runtimeconfig.dev.json
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.pdb
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.Views.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.Views.pdb
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csprojAssemblyReference.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfoInputs.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfo.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CoreCompileInputs.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorAssemblyInfo.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorAssemblyInfo.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.Manifest.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.xml
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\CourseLibrary.API.styles.css
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.TagHelpers.input.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.TagHelpers.output.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorCoreGenerate.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorTargetAssemblyInfo.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorTargetAssemblyInfo.cs
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.Views.pdb
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CopyComplete
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\_LOCALdata\git\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
