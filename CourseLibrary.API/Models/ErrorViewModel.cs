@@ -1,5 +1,3 @@
-using System;
-
 namespace CourseLibrary.API.Models
 {
     public class ErrorViewModel

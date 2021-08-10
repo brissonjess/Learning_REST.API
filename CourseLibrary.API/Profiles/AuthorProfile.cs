@@ -1,9 +1,4 @@
-﻿using AutoMapper;
-using CourseLibrary.API.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CourseLibrary.API.Helpers;
 
 namespace CourseLibrary.API.Profiles
 {
