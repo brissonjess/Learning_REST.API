@@ -118,6 +118,7 @@ namespace CourseLibrary.API.Controllers
                 _courseLibraryRepository.AddCourse(authorId, courseToAdd);
                 _courseLibraryRepository.Save();
 
+
                 var courseToReturn = _mapper.Map<CourseDto>(courseToAdd);
 
                 return CreatedAtRoute("GetCourseForAuthor", new { authorId, courseId = courseToReturn.Id }, courseToReturn);
