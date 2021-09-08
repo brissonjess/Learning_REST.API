@@ -1,5 +1,6 @@
 using CourseLibrary.API.DbContexts;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -22,8 +23,8 @@ namespace CourseLibrary.API
                     var context = scope.ServiceProvider.GetService<CourseLibraryContext>();
                     // for demo purposes, delete the database & migrate on startup so 
                     // we can start with a clean slate
-                    //context.Database.EnsureDeleted();
-                    //context.Database.Migrate();
+                    context.Database.EnsureDeleted();
+                    context.Database.Migrate();
                 }
                 catch (Exception ex)
                 {

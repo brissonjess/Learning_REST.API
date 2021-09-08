@@ -83,7 +83,7 @@ namespace CourseLibrary.API
             services.AddDbContext<CourseLibraryContext>(options =>
             {
                 options.UseSqlServer(
-                    @"Server=D-878986\D878986;Database=CourseLibraryDB;Trusted_Connection=True;");
+                    @"Server=JESSERNAUGHT-PC\SQLEXPRESS;Database=CourseLibraryDB;Trusted_Connection=True;");
             });
         }
 
