@@ -1,5 +1,6 @@
 ﻿using CourseLibrary.API.DbContexts;
 using CourseLibrary.API.Entities;
+using CourseLibrary.API.Helpers;
 using CourseLibrary.API.ResourceParameters;
 using System;
 using System.Collections.Generic;
@@ -127,7 +128,7 @@ namespace CourseLibrary.API.Services
         {
             return _context.Authors.ToList<Author>();
         }
-        public IEnumerable<Author> GetAuthors(AuthorsResourceParameters authorsResourceParameters)
+        public PagedList<Author> GetAuthors(AuthorsResourceParameters authorsResourceParameters)
         {
             if(authorsResourceParameters == null)
             {
@@ -162,10 +163,7 @@ namespace CourseLibrary.API.Services
                 || y.LastName.Contains(searchQuery));
             }
             //by the time the code reaches here all the business logic has been applied and the return will simply list the results
-            return collection
-                .Skip(authorsResourceParameters.PageSize * (authorsResourceParameters.PageNumber - 1))
-                .Take(authorsResourceParameters.PageSize)
-                .ToList();
+            return PagedList<Author>.Create(collection, authorsResourceParameters.PageNumber, authorsResourceParameters.PageSize);
         }
 
         public IEnumerable<Author> GetAuthors(IEnumerable<Guid> authorIds)
