@@ -26,6 +26,7 @@ namespace CourseLibrary.API.Controllers
         public ActionResult<IEnumerable<AuthorDto>> GetAuthors([FromQuery] AuthorsResourceParameters authorsResourceParameters)
         {
             var authorsFromRepo = _courseLibraryRepository.GetAuthors(authorsResourceParameters);
+            #region region: how to map values without using AutoMapper library
             //throw new Exception("Testexception");//this line tests exception handling messages; need development environment to prod to see full effect
 
             /*--------mapping resources using a regular foreach loop
@@ -47,8 +48,9 @@ namespace CourseLibrary.API.Controllers
 
             /*-------mapping resources using automapper
              a profile needs to be created (see profile folder) to map the entity*/
-
-            return Ok(_mapper.Map<IEnumerable<AuthorDto>>(authorsFromRepo));
+            #endregion
+            return Ok(_mapper.Map<IEnumerable<
+                AuthorDto>>(authorsFromRepo));
         }
 
         [HttpGet("{authorId}", Name = "GetAuthor")]

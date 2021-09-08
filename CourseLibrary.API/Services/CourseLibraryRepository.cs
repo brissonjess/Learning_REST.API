@@ -134,11 +134,15 @@ namespace CourseLibrary.API.Services
                 throw new Exception(nameof(authorsResourceParameters));
             }
 
-            if (string.IsNullOrWhiteSpace(authorsResourceParameters.MainCategory) 
+            #region region: remove whitespace check 
+            //now we will return a page of results, even if a main category or search category is not provided
+            /*if (string.IsNullOrWhiteSpace(authorsResourceParameters.MainCategory) 
                 && string.IsNullOrWhiteSpace(authorsResourceParameters.SearchQuery))
             {
                 return GetAuthors();
             }
+            */
+            #endregion
             
             //we use iqueryable to create a collection object that can be filtered using lambda expressions
             var collection = _context.Authors as IQueryable<Author>;
@@ -158,7 +162,10 @@ namespace CourseLibrary.API.Services
                 || y.LastName.Contains(searchQuery));
             }
             //by the time the code reaches here all the business logic has been applied and the return will simply list the results
-            return collection.ToList();
+            return collection
+                .Skip(authorsResourceParameters.PageSize * (authorsResourceParameters.PageNumber - 1))
+                .Take(authorsResourceParameters.PageSize)
+                .ToList();
         }
 
         public IEnumerable<Author> GetAuthors(IEnumerable<Guid> authorIds)
