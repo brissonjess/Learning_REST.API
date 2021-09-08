@@ -111,7 +111,10 @@ namespace CourseLibrary.API.Controllers
             {
                 //return NotFound();//if the courseForAuthorDoesNotExist then add a new one -- upsert
                 var courseDto = new CourseForUpdateDto();
-                patchDocument.ApplyTo(courseDto);
+                patchDocument.ApplyTo(courseDto, ModelState);
+
+                if (!TryValidateModel(courseDto)) { return ValidationProblem(ModelState); }
+                
                 var courseToAdd = _mapper.Map<Entities.Course>(courseDto);
                 courseToAdd.Id = courseId;
 
