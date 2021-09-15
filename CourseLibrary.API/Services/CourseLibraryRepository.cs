@@ -162,6 +162,17 @@ namespace CourseLibrary.API.Services
                 || y.FirstName.Contains(searchQuery)
                 || y.LastName.Contains(searchQuery));
             }
+
+            if (!string.IsNullOrWhiteSpace(authorsResourceParameters.OrderBy))
+            {
+                if(authorsResourceParameters.OrderBy.ToLowerInvariant() == "name")
+                {
+                    collection = collection.OrderBy(a => a.FirstName).ThenBy(a => a.LastName);
+                }
+
+                //collection.ApplySort(authorsResourceParameters.OrderBy, _mappingDictionary);
+
+            }
             //by the time the code reaches here all the business logic has been applied and the return will simply list the results
             return PagedList<Author>.Create(collection, authorsResourceParameters.PageNumber, authorsResourceParameters.PageSize);
         }
